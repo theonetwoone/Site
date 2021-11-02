@@ -15,11 +15,13 @@
     "web3": "^1.5.1",
     "web3-eth-contract": "^1.5.2"
   },
+  "homepage": "http://theonetwo.github.io/site",
   "author": "Daniel Eugene Botha (HashLips)",
   "license": "MIT",
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build"
+    "build": "react-scripts build",
+    "deploy": "gh-pages -d build"
   },
   "browserslist": {
     "production": [
