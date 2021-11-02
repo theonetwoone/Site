@@ -15,7 +15,7 @@
     "web3": "^1.5.1",
     "web3-eth-contract": "^1.5.2"
   },
-  "homepage": "http://theonetwo.github.io/site",
+  "homepage": "http://theonetwo.github.io/Site",
   "author": "Daniel Eugene Botha (HashLips)",
   "license": "MIT",
   "scripts": {
